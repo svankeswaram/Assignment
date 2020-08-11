@@ -9,4 +9,4 @@
 * run the 'mvn clean verify'
 
 # Results
-Results can be viewed in targer folder 'cucumber-html-report/index.html'
+Results can be viewed in target folder 'cucumber-html-report/index.html'
